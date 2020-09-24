@@ -1,2 +1,5 @@
 body{
     font-family: 'Peddana', serif;
+}
+p {line-height: -1px;
+}
