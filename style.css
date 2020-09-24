@@ -1,18 +1,25 @@
 body{
-    font-family: 'Peddana', serif;
+    font-family: 'Josefin Sans', sans-serif;
 }
 header {
-    font-size: 24px;
+    font-size: 26px;
     line-height: 10px;
 }
-h1 {
-    text-transform: uppercase;
+h1 {  
 }
 h2 {
-   font-style: italics; 
+    font-size: 22px;
+    font-style: italic;
+    color:cornflowerblue;
 }
 main {
-    font-size: 20px;
+    font-size: 18px;
+}
+b {
+    font-style: italic;
 }
 footer {
+    font-size: 12px;
+    font-style: italic;
+    color: grey
 }
