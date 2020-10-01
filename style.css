@@ -1,3 +1,18 @@
+*{
+    background-color: gainsboro
+}
+div {
+    /* example G */
+    border-style: solid;
+    border-width: 3px;
+    border-top-color: red;
+    border-right-color: pink;
+    border-bottom-color: lime;
+    border-left-color: purple;
+    border-radius: 6px;
+    
+
+  }
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
