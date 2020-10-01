@@ -11,37 +11,53 @@ body {
 header {
   font-size: 26px;
   line-height: 10px;
-  color: rgba(255, 127, 80, 0.377);
+  color: rgb(250, 144, 144);
   text-align: center;
   border-style: solid;
   border-width: 3px;
   border-color: black;
   margin-top: 10px;
-  margin-right: px;
+  margin-right: 150px;
   margin-bottom: 10px;
-  margin-left: 40px;
+  margin-left: 150px;
+  background-color: black;
 }
 h1 {
 }
 h2 {
   font-size: 22px;
   font-style: italic;
-  color: cornflowerblue;
+  color: rgba(32, 72, 182, 0.671);
   text-align: center;
+  background-color: black;
+  
 }
 main {
   font-size: 18px;
 
-  color: rgba(100, 148, 237, 0.329);
+  color: rgba(38, 66, 110, 0.76);
   text-align: center;
-  margin-top: 40px;
-  margin-right: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  margin-top: 10px;
+  margin-right: 150px;
   margin-bottom: 10px;
-  margin-left: 10px;
+  margin-left: 150px;
+  
 }
 footer {
   font-size: 12px;
   font-style: italic;
   color: grey;
+  background-color: white;
   text-align: center;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  margin-top: 10px;
+  margin-right: 150px;
+  margin-bottom: 10px;
+  margin-left: 150px;
+  background-color: white;
 }
