@@ -6,7 +6,7 @@ div {
 }
 
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 header {
   font-size: 26px;
@@ -21,14 +21,11 @@ header {
   margin-bottom: 10px;
   margin-left: 150px;
 }
-h1 {
-}
 h2 {
   font-size: 22px;
   font-style: italic;
   color: rgba(155, 155, 155, 0.671);
   text-align: center;
-  
 }
 main {
   font-size: 18px;
@@ -43,7 +40,6 @@ main {
   margin-right: 150px;
   margin-bottom: 10px;
   margin-left: 150px;
-  
 }
 footer {
   font-size: 12px;
@@ -56,5 +52,4 @@ footer {
   margin-right: 150px;
   margin-bottom: 10px;
   margin-left: 150px;
-  
 }
