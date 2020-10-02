@@ -6,7 +6,7 @@ div {
 }
 
 body {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 header {
   font-size: 26px;
@@ -33,9 +33,9 @@ h2 {
 main {
   font-size: 18px;
 
-  color: rgba(119, 119, 119, 0.76);
+  color: rgba(56, 56, 56, 0.76);
   text-align: center;
-  
+  line-height: 25px;
   border-style: solid;
   border-width: 3px;
   border-color: black;
@@ -47,8 +47,7 @@ main {
 }
 footer {
   font-size: 12px;
-  font-style: italic;
-  color: grey;
+  color: rgba(85, 85, 85, 0.671);
   text-align: center;
   border-style: solid;
   border-width: 3px;
